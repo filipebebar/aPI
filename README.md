@@ -1,1 +1,1 @@
-echo "# nodeapi"
+# nodeapi
