@@ -1,7 +1,5 @@
 # API para o Projeto Integrador 2019.
 
-## Template base para o CRUD. 
+## Template base CRUD. 
 
-To run: node src/index.js
-Listening to: localhost:5000
-
+run node src/index.js
